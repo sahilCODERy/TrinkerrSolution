@@ -17,5 +17,5 @@ function newBie(ar){
     return sum;
 }
 
-console.log(newBie([10, 11]))
-console.log(newBie([8, 10, 12]))
+console.log("[10, 11] => "+newBie([10, 11]))
+console.log("[8, 10, 12] =>"+newBie([8, 10, 12]))
