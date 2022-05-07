@@ -21,5 +21,5 @@ function mirrorString(st){
     return st.join("");
 }
 
-console.log(mirrorString("ab-cd"))
-console.log(mirrorString("a-bC-dEf-ghIj"))
+console.log("ab-cd => "+mirrorString("ab-cd"))
+console.log("a-bC-dEf-ghIj => "+mirrorString("a-bC-dEf-ghIj"))
